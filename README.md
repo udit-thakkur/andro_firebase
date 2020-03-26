@@ -16,7 +16,7 @@ The script checks for misconfigured/open firebase database used in development o
 - ./firebase.sh /path/to/apk
 
 ## Donation (Buy Me a Coffee):
-You can encourage me me to contribute more to the open source with donations.
+You can encourage me to contribute more to the open source with donation.
 NEVER ASKED BUT ALWAYS APPRECIATED.
 - PayPal - https://paypal.me/uditbhadauria
 - Credit/Debit Card - https://www.buymeacoffee.com/uditthakkur
