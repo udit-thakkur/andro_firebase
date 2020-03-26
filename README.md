@@ -13,7 +13,8 @@ The script checks for misconfigured/open firebase database used in development o
 
 ## Usage:
 
-- ./firebase.sh /path/to/apk
+- ./firebase.sh /path/to/apkfile
+- e.g. ./firebase.sh /root/tmp/hackcura.apk
 
 ## Donation (Buy Me a Coffee):
 You can encourage me to contribute more to the open source with donation.
