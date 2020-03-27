@@ -25,7 +25,7 @@ NEVER ASKED BUT ALWAYS APPRECIATED.
 ## Team:
 >Udit Thakkur   -  https://www.twitter.com/udit_thakkur
 
->Harshit Sengar -  https://www.twiiter.com/sengarharshit1
+>Harshit Sengar -  https://www.twitter.com/sengarharshit1
 
 ## Exploitaion:
 Khizer Javed had done a really good research on it for exploting it further. You can have a look in his blog post here: https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/ 
