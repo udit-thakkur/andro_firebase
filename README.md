@@ -3,7 +3,9 @@ The script checks for misconfigured/open firebase database used in development o
 
 ## Installation:
 
-- Prerequisites: apktool (apt install apktool)
+Prerequisites: - apktool (apt install apktool | brew install apktool)
+  
+               - jq (apt install jq | brew install jq)
 
 - git clone https://github.com/udit-thakkur/andro_firebase.git
 
