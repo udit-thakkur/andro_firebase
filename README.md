@@ -3,7 +3,9 @@ The script checks for misconfigured/open firebase database used in development o
 
 ## Installation:
 
-Prerequisites: - apktool (apt install apktool | brew install apktool)
+Prerequisites: 
+               
+               - apktool (apt install apktool | brew install apktool)
   
                - jq (apt install jq | brew install jq)
 
